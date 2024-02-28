@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Eyaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyaya)](https://github.com/eyaya/github-readme-stats)
+[![Eyaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyaya)](https://github.com/eyaya/github-readme-stats) 
+![Eyaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyaya&hide=contribs,prs)
 
 <!--
 **eyaya/eyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
