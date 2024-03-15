@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eyaya Birara Eneyew</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Eyaya Eneyew</h1>
+<h3 align="center">A dynamic Applied Mathematician a with solid foundation in Python, I've transitioned into Generative AI Engineer after intensive training in Generative AI, Machine LearningL and Data Engineering. With hands-on experience in real-world Generative AI projects, I bring a blend of mathematical insights and programming proficiency to drive innovation in AI solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyaya&label=Profile%20views&color=0e75b6&style=flat" alt="eyaya" /> </p>
 
