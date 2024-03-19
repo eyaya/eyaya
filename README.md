@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,react,javascript,html,css,typescript,flask,nextjs,tailwind,git,github,opencv,docker,pandas,postgres,mysql,sqlite,pytorch,sckit-learn,tensorflow,seaborn,matplotlib,plotly,Cpp,matlab,latex,linux,ubuntu,vscode,atom," />
+    <img src="https://skillicons.dev/icons?i=python,django,react,javascript,html,css,typescript,flask,nextjs,tailwind,git,github,opencv,docker,postgres,mysql,sqlite,pytorch,sklearn,tensorflow,cpp,matlab,latex,linux,ubuntu,vscode,atom," />
   </a>
 </p>
 
