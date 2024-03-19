@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyaya&label=Profile%20views&color=0e75b6&style=flat" alt="eyaya" /> </p>
 
+- 🔭 I’m currently working on a <strong>Generative AI project</strong>
 
+- 👯 I’m looking to collaborate on a Generative AI project.
+
+- 💬 Ask me about anything related with Large Language Models.
 
 - 📫 How to reach me **eyaya@aims.ac.za**
 
