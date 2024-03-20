@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Eyaya Eneyew</h2>
 <h3 align="center"> Generative AI Engineer</h3>
-<p >An adept Junior Generative AI Engineer and Applied Mathematician with 8+ years of experience, including lecturing, supervising and tutoring. Skilled in real-world Generative AI projects with fine-tuning LLMs, building RAG systems, prompt engineering and Chatbot development. Proficient in automating complex systems, ETL data pipeline development, data cleaning, and visualization. Committed problem-solver with strong communication and collaboration abilities, ready to take on responsibilities in Generative AI.</p>
+<p >An aspiring Junior Generative AI Engineer and Applied Mathematician with 8+ years of experience. Skilled in real-world Generative AI projects with training and fine-tuning LLMs, building RAG systems, prompt engineering and AI Chatbot development. Proficient in automating complex systems, data cleaning, and visualization. Committed problem-solver with strong communication and collaboration abilities, ready to take on responsibilities in Generative AI.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyaya&label=Profile%20views&color=0e75b6&style=flat" alt="eyaya" /> </p>
 
